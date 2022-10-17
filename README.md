@@ -16,7 +16,7 @@
 ##### -Third, 8/31-9/5 was a week where I was able to keep the calorie count very low. I was traveling this week, walking around a lot and not spending much time looking for things to eat. Normally I would have expected to eat more calories while traveling so this was an interesting discovery. 
 ![image](https://user-images.githubusercontent.com/39841179/195401287-4dd42d9e-7310-432f-99d0-ca10a8416307.png)
 
-#### I used a Pivot table (shown below) to see the distribution of kcals throughout my date, as a percentage of the total kcals that day. This ended up being a very valuable insight that lead to me reducing the size of my dinner and snack kcals, and adding those kcals to lunch. I will typically have a healthier meal for lunch that I would if I was just snacking, so this is a better place to get those kcals. 
+#### I used a Pivot table (shown below) to see the distribution of kcals throughout my date, as a percentage of the total kcals that day. This ended up being a very valuable insight that lead to me reducing the size of my dinner and snack kcals, and adding those kcals to lunch. I will typically have a healthier meal for lunch than I would if I was just snacking, so this is a better place to get those kcals. 
 
 ![image](https://user-images.githubusercontent.com/39841179/195405610-9852aa5d-b91b-4da9-bb56-d110a442a644.png)
 
