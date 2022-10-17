@@ -1,7 +1,7 @@
 # Calories-Project 
 ## I wanted to learn how to use pivot tables and I also wanted to lose 5-10lbs. I decided to track everything I ate for about two months, and it worked! Here is a snapshot of my spreadsheet.
 
-##### TLDR: Counting kcals and analyzing my findings helped me discover I was eating most of my calories during dinner, sometimes skipping breakfast or lunch, but usually making up for that during snack time or at dinner. Perhaps more importantly, gathering and inputing data showed me the importance of clean and reliable data, but also showed that you can have errors even when you are soley in control of the information. & I lost 5 lbs!
+##### TLDR: Counting kcals and analyzing my findings helped me discover I was eating most of my calories during dinner, sometimes skipping breakfast or lunch, but usually making up for that during snack time or at dinner. Perhaps more importantly, gathering and inputing data showed me the importance of clean and reliable data, and I found that you can have errors even when you are soley in control of the information. & I lost 5 lbs!
 <br/>
 
 #### Here is a snapshot of my data. As you can see, meals were defined as breakfast, lunch, dinner, and snacks. I found that while it was interesting to see how much what I ate each day, I was not able to see patterns that easily from the data table alone. (Note: yellow indicates I was eating a plant-based diet that week.) 
